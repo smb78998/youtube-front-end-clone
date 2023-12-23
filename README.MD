@@ -2,7 +2,7 @@
 
  [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=18476s). 
 
-The course goes over HTML and CSS basics. In the end you produce a Youtube Clone.
+The course goes over HTML and CSS basics. In the end you produce a [Youtube Clone](https://smb78998.github.io/p_HTML_CSS_full_course_by_SuperSimpleDev/youtube.com%20clone/youtube.html).
 
 This repo contains my some notes and exercises I completed along the way as well as the final output. 
 
@@ -18,12 +18,12 @@ This repo contains my some notes and exercises I completed along the way as well
 
 ### Screenshot
 
-[My Screenshot image](./youtube.com%20clone/screenshot.png?raw=true)
+[My Screenshot image](./youtube.com%20clone/screenshot.jpg?raw=true)
 
 
 ### Links
 
--  [Live Site URL]()
+-  [Live Site URL](https://smb78998.github.io/p_HTML_CSS_full_course_by_SuperSimpleDev/youtube.com%20clone/youtube.html)
 - [Exercises](./Excercises/)
 - [Youtube Clone Folder](youtube.com%20clone/)
 
