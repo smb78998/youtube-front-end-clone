@@ -1,0 +1,58 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  padding:0px;
+  margin:0px;
+}
+
+.friend-container{
+  display:inline-block;
+  border:2px solid red;
+}
+
+
+.main-image{
+  border:2px solid black;
+  width: 200px;
+}
+
+.add-friend-button{
+  border-style:none;
+  display:block;
+  background-color: rgb(59, 125, 201);
+  color:white;
+  border-radius: 3px;
+  padding: 5px 12px;
+  font-size:18px;
+}
+
+.name{
+  font-size: 20px;
+  font-weight:bold;
+  padding-top: 10px;
+  padding-bottom:5px;
+}
+
+.user-pfp{
+  height: 28px;
+  width: 28px;
+  object-fit:cover;
+  display:inline-block;
+  border-radius: 14px;
+  vertical-align: middle;
+
+}
+
+.mutual-friends{
+  font-size: 16px;
+  color:rgb(106, 108, 110);
+  display:inline-block;
+  vertical-align: middle;
+}
+
+.mutual-friends-info{
+  vertical-align: center;
+  padding-bottom: 10px;
+}
