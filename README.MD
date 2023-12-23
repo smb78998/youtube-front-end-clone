@@ -18,7 +18,6 @@ This repo contains my some notes and exercises I completed along the way as well
 
 ### Screenshot
 
-[My Screenshot image]()
 <a href="./youtube.com%20clone/screenshot.jpg?raw=true"><img src="./youtube.com%20clone/screenshot.jpg?raw=true"></a>
 
 
